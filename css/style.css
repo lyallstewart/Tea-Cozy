@@ -1,0 +1,28 @@
+/* Global Styles */
+header {
+    background-color: black;
+    height: 69px;
+    position: fixed;
+}
+
+li {
+    display: inline-block;
+}
+
+body {
+    background-color: black;
+}
+
+/* Class Styles */
+#logo {
+    height: 100%;
+    width: 100%;
+}
+
+#navbar {
+    text-decoration: underline;
+}
+
+/* ID Styles */
+
+/* Other Styles */
